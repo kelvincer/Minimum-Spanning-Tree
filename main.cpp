@@ -323,7 +323,7 @@ private:
     }
 };
 
-int main2() {
+int main() {
     
     // Read file
     std::ifstream file("cplusplus4c_homeworks_Homework3_SampleTestData_mst_data.txt");
